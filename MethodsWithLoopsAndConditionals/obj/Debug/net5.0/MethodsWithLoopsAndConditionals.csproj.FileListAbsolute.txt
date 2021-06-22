@@ -1,0 +1,16 @@
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.runtimeconfig.dev.json
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\ref\MethodsWithLoopsAndConditionals.dll
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\net5.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\ref\MethodsWithLoopsAndConditionals.dll
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\David\repos\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\net5.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
